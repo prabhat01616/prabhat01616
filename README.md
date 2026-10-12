@@ -1,31 +1,127 @@
-<h1 align="center">Hi 👋, I'm Prabhat Prasad</h1>
-<h3 align="center">A passionate developer and operator from India</h3>
+# 👋 Hi, I'm Prabhat Prasad
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhat01616&label=Profile%20views&color=0e75b6&style=flat" alt="prabhat01616" /> </p>
+### 💻 Frontend Developer | 🌱 Learning DevOps | 🇮🇳 India
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhat01616" alt="prabhat01616" /></a> </p>
+I enjoy building projects, exploring new technologies, and improving my development skills. I'm currently strengthening my frontend fundamentals while learning DevOps and cloud technologies.
 
-- 🔭 I’m currently working on **Github**
+- 🔭 Currently exploring: **Web Development & GitHub**
+- 🌱 Learning: **Git, Linux, Docker, AWS, CI/CD & DevOps**
+- 💬 Ask me about: **HTML, CSS & JavaScript**
+- 🎯 Goal: Build useful projects and become a skilled developer
+- 🎮 Fun fact: I'm a gamer as well as a wanderer!
+- 📫 Email: **prabhatprasad01616@gmail.com**
 
-- 🌱 I’m currently learning **Git hub**
+---
 
-- 💬 Ask me about **HTML , CSS & JAVA SCRIPT**
+## 🌐 Connect With Me
 
-- 📫 How to reach me **prabhatprasad01616@gmail.com**
-
-- ⚡ Fun fact **I am a Gamer as well as Wanderer.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prabhat prasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhat prasad" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.prabhatsad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.prabhatsad" height="30" width="40" /></a>
+  <a href="https://github.com/prabhat01616">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/mr.prabhatsad/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:prabhatprasad01616@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+> **LinkedIn:** Add your actual LinkedIn profile URL once you have it. The previous URL contained a space, so I have not reused it.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhat01616&show_icons=true&locale=en&layout=compact" alt="prabhat01616" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhat01616&show_icons=true&locale=en" alt="prabhat01616" /></p>
+## 🛠️ Languages & Technologies
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhat01616&" alt="prabhat01616" /></p>
+### 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="Frontend technologies"/>
+</p>
+
+### ⚙️ DevOps & Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,azure,jenkins,kubernetes" alt="DevOps and cloud technologies"/>
+</p>
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp" alt="C and C++"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhat01616&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="Prabhat's GitHub statistics" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhat01616&layout=compact&langs_count=8&theme=tokyonight" alt="Most used programming languages" width="41%"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prabhat01616&theme=tokyonight&hide_border=false" alt="GitHub contribution streak" width="70%"/>
+</p>
+
+---
+
+## 📈 Contribution Activity & Commit Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prabhat01616&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution and commit activity graph" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/prabhat01616?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prabhat01616&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="GitHub profile trophies" width="100%"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/prabhat01616/YOUR_PROJECT_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhat01616&repo=YOUR_PROJECT_1&theme=tokyonight" alt="Featured project one"/>
+  </a>
+  <a href="https://github.com/prabhat01616/YOUR_PROJECT_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhat01616&repo=YOUR_PROJECT_2&theme=tokyonight" alt="Featured project two"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/prabhat01616/YOUR_PROJECT_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prabhat01616&repo=YOUR_PROJECT_3&theme=tokyonight" alt="Featured project three"/>
+  </a>
+</p>
+
+<!-- Replace YOUR_PROJECT_1, YOUR_PROJECT_2 and YOUR_PROJECT_3
+     with your actual repository names before publishing. -->
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prabhat01616&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+</p>
+
+---
+
+<p align="center">
+  <i>“Consistency is the key to growth. Keep learning, keep building, and keep improving.”</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
