@@ -4,10 +4,10 @@
 
 I enjoy building projects, exploring new technologies, and improving my development skills. I'm currently strengthening my frontend fundamentals while learning DevOps and cloud technologies.
 
-- 🔭 Currently exploring: **Web Development & GitHub**
-- 🌱 Learning: **Git, Linux, Docker, AWS, CI/CD & DevOps**
-- 💬 Ask me about: **HTML, CSS & JavaScript**
-- 🎯 Goal: Build useful projects and become a skilled developer
+- 🔭 Currently exploring: **Web Development & DevOps**
+- 🌱 Learning: **GitHub, Linux, Docker, AWS, CI/CD & DevOps**
+- 💬 Ask me about: **HTML, CSS , JavaScript & GitHub**
+- 🎯 Goal: Build useful projects and become a skilled developer and operator
 - 🎮 Fun fact: I'm a gamer as well as a wanderer!
 - 📫 Email: **prabhatprasad01616@gmail.com**
 
